@@ -12,7 +12,7 @@
  *     12.5
  *     18
  *     7
- *     0
+ *     
  *     4
  *
  * Any noise in the input---blank lines, non-numeric text, negative
