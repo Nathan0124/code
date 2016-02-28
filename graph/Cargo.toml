@@ -1,0 +1,6 @@
+[package]
+name = "graph"
+version = "0.1.0"
+authors = ["Nathan0124 <linianzu0124@gmail.com>"]
+
+[dependencies]
